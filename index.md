@@ -7,3 +7,7 @@ This page should be updated almost everyday, so a once a week check to read it s
 Till then.
 
 – sp4x
+
+## Stories
+
+[The butterfly](./stories/The%20butterfly.html).
