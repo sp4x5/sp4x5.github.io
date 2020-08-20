@@ -8,6 +8,10 @@ Till then.
 
 – sp4x
 
+## Blog
+
+[The Sinking Boat](./blog/Sinking%20Boat.html) (2020/08/20).
+
 ## Stories
 
 [The butterfly](./stories/The%20butterfly.html).
