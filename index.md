@@ -9,7 +9,9 @@ Till then.
 – sp4x
 
 ## Blog
-[Ser Bom (PT)](./blog/Ser%20Bom.html) (2020/08/21)
+
+[Ser Bom (PT)](./blog/Ser%20Bom.html) (2020/08/21).
+
 [The Sinking Boat](./blog/Sinking%20Boat.html) (2020/08/20).
 
 ## Stories

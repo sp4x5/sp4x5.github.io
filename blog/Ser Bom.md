@@ -11,3 +11,5 @@ Com o tempo isso acabou alterando minha percepção sobre o que viria ser um bom
 No fim minha visão sobre o que é ser bom quando penso em programação deixou de ser sobre alcançar o nirvana da máquina de Turing, onde o pensamento da solução já um programa válido que explora todo o potencial e sim sobre tratar todo problema com uma certa humildade, gastanto um tempo pensando nas estruturas de dados e buscando soluções que sejam transparêntes, discutindo ideias ou refletindo sobre caminhos que outras pessoas seguiram em problemas parecidos.
 
 A realidade que uma criança exerga é muito idealista em relação ao mundo e aprender lidar com isso é uma etapa muito curiosa da vida.
+
+(2020/08/21)
